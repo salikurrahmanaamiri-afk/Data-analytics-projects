@@ -30,7 +30,5 @@ Several cases involve diagnosis without final repair, indicating scope for bette
 
 📁 Files in This Repository
 cleaned_data.csv – cleaned and tagged dataset
-
 analysis.ipynb – Python notebook with EDA, cleaning, and visualizations
-
 report.pdf – summary report with insights and observations
